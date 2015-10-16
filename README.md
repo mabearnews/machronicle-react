@@ -1,4 +1,4 @@
-# The React Way: Getting Started
+# M-A Chronicle React
 
 **Related blog post:**  
 http://blog.risingstack.com/the-react-way-getting-started-tutorial/
