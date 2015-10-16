@@ -1,7 +1,5 @@
 # The React Way: Getting Started
 
-[![Build Status](https://travis-ci.org/RisingStack/react-way-getting-started.svg?branch=master)](https://travis-ci.org/RisingStack/react-way-getting-started)  
-
 **Related blog post:**  
 http://blog.risingstack.com/the-react-way-getting-started-tutorial/
 
@@ -34,6 +32,3 @@ Check your http://localhost:3000/ or  `open http://localhost:3000/`
 Run:  
 `npm run webpack-watch`
 
-## Preview
-
-![screen shot 2015-04-11 at 11 48 41](https://cloud.githubusercontent.com/assets/1764512/7101012/cf4334fc-e040-11e4-9f28-aed24d68e46a.png)
