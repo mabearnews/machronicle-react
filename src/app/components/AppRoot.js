@@ -11,10 +11,4 @@ var AppRoot = (
   </Router>
 );
 
-
-// Prop types validation
-//AppRoot.propTypes = {
-//  state: React.PropTypes.object.isRequired
-//};
-
 export default AppRoot;

@@ -30,16 +30,18 @@ class App {
     // render to DOM
     if(element) {
       debug('render to DOM');
-
+      
+      // Define Routes
       var routevar = (
         <Route handler={Home}>
         </Route>
       );
       
+      // Hook up router to the main element
       Router.run(routevar, Router.HashLocation, (Root) => {
         React.render(<Root/>, element);
       });
-      debug('after');
+      
       return;
     }
 
